@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 Atualmente, estou trabalhando em minhas **habilidades de desenvolvimento mobile.**
+- 🔭 Atualmente, estou trabalhando na **F1rst.**
 - 🌱 Atualmente estou estudando, **Análise e Desenvolvimento de Sistemas**
 - 👯 Estou procurando colaborar em **Flutter e Mobile Projects.**
 - 👨‍💻 Todos os meus projetos estão disponíveis em <a href="https://github.com/brianzav?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="brianzav" height="30" width="40" /></a>
