@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Zavala 🚀</h1>
 <h3 align="center">Backend Developer building scalable financial systems.</h3>
 
-<h4 align="center">Backend Developer focused on Java, microservices and distributed systems.</h4>
-
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## 👨‍💻 About Me
